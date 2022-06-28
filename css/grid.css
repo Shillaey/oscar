@@ -10,38 +10,38 @@ body{
     column-gap: 18px;
 }
 
-.one {
+.beatsone {
     grid-area: one;
 }
  
-.two {
+.amazontwo {
     grid-area: two;
 }
  
-.three {
+.applethree {
     grid-area: three;
 }
  
-.four {
+.adidasfour {
     grid-area: four;
 }
   
-.five {
+.adidasfive {
     grid-area: five;
 }
   
-.six {
+.applesix {
     grid-area: six;
 }
   
-.seven {
+.amazonseven {
     grid-area: seven;
 }
   
-.eight {
+.beatseight {
     grid-area: eight;
 }
 
 img {
-    width: 100%;
+    width: 90%;
 }
